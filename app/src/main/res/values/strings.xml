@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="news_article_button">Read Full News</string>
+</resources>
