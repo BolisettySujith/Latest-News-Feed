@@ -5,6 +5,7 @@
 - REST API
   - [New API](https://newsapi.org/)
   - Replace `YOUR_API_KEY` with your api key 
+- Coroutines
 - Recycler View
 - Bottom Sheet View
 
