@@ -10,4 +10,5 @@
 - Bottom Sheet View
 
 ### App Preview
+**(Preview takes few seconds to load)*
 ![](media/appPreview.gif)
